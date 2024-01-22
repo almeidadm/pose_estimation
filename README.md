@@ -4,11 +4,12 @@ This pipeline produces a copy of the original video projecting the 3d pose estim
 
 ## Exemple
 
-input video
-![](./data_output/Vmake-1705538964483/Vmake-1705538964483.mp4)
+### input video
 
-output video
-![](data_output/Vmake-1705538964483/video.mp4)
+[![](data_output/Vmake-1705538964483/frames/raw/video-frame00076.jpg)](./data_output/Vmake-1705538964483/Vmake-1705538964483.mp4)
+
+### output video
+[![](data_output/Vmake-1705538964483/frames/processed/processed-video-frame00076.jpg)](data_output/Vmake-1705538964483/video.mp4)
 
 ## How to install
 
